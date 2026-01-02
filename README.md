@@ -1,76 +1,65 @@
-<h2 align="left">
-Hi 👋! My name is Shah Rahat Hossain<br/>
-I'm a MERN Stack Developer from Bangladesh 🇧🇩
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Shah+Rahat+Hossain;MERN+Stack+Developer;Building+Modern+Web+Apps" />
 </h2>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HossainShahRahat&label=Profile%20Views&color=8b5cf6&style=flat" />
+</p>
+
+---
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hossainshahrahat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" 
-    height="150" 
-    alt="stats graph"  
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=HossainShahRahat&show_icons=true&count_private=true&include_all_commits=true&theme=dracula"
+    height="160"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hossainshahrahat&layout=compact&langs_count=6&card_width=320&theme=dracula" 
-    height="150" 
-    alt="languages graph"  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossainShahRahat&layout=compact&langs_count=6&theme=dracula"
+    height="160"
   />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+### 🚀 Tech Stack
 
-###
-
-### 🧠 Tech I Work With
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="34"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="34"/>
 </div>
 
-###
+---
 
-### 🌐 Connect With Me
+### 🌐 Let’s Connect
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/shah-rahat-hossain/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://dev.to/hossainshahrahat" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dev.to-111827?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/shah.rahat.hossain" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-3b82f6?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </div>
 
-###
+---
 
-<br clear="both"/>
-
-<img 
-  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" 
-  alt="Snake animation" 
+<img
+  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub contribution snake animation"
 />
-
-###
