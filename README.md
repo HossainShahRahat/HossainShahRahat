@@ -1,27 +1,29 @@
-<!-- GitHub Profile README for Shah Rahat Hossain -->
+<!-- Animated GitHub Profile README -->
 
 <h1 align="center">
-  Hi 👋, I'm Shah Rahat Hossain
+  Hi 👋, I'm <span style="color:#8A2BE2">Shah Rahat Hossain</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=700&lines=React+Developer;Web+Developer;IT+Support+Executive;Problem+Solver;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=750&lines=React+Application+Developer;Web+Developer;IT+Support+Executive+@+DigiTrench;JavaScript+%7C+Java+%7C+Frontend;Always+Learning+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HossainShahRahat&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=HossainShahRahat&label=Profile%20Views&color=8A2BE2&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
+<img align="right" alt="coding vector" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
 - 👨‍💼 **IT Support Executive at DigiTrench**
-- 💻 **Web & React Application Developer**
-- 🌍 Based in **Dhaka, Bangladesh**
-- ⚛️ Experienced in building **React.js applications**
-- 🧠 Strong foundation in **JavaScript, Java, and Frontend Development**
-- 🚀 Passionate about clean UI, responsive design, and real-world solutions
+- ⚛️ **React Application Developer**
+- 🌐 Web Developer (Frontend-focused)
+- 📍 Dhaka, Bangladesh
+- 🧠 Skilled in building responsive, component-based UIs
+- 🚀 Passionate about clean code & modern design
 
 ---
 
@@ -33,29 +35,25 @@
 
 ---
 
-## 🚀 Projects & Work
+## ⚛️ What I Build
 
-Some highlights from my GitHub repositories:
+### 🔹 React Applications
+- Component-based architecture
+- Dynamic state & UI logic
+- Clean, reusable frontend code
 
-- ⚛️ **React Applications**
-  - Modern UI components
-  - Client-side apps with reusable components
-  - State-based dynamic interfaces
+### 🔹 Web Projects
+- Responsive layouts
+- JavaScript-powered UI
+- Practice & real-world designs
 
-- 🌐 **Web Projects**
-  - Responsive HTML/CSS layouts
-  - JavaScript-driven UI interactions
-  - Practice & real-use frontend designs
-
-- ☕ **Java Projects**
-  - Academic & practice-based applications
-  - Logic-focused implementations
-
-📌 *More projects available in my repositories — feel free to explore!*
+### 🔹 Java Projects
+- Logic-focused applications
+- Academic & self-learning projects
 
 ---
 
-## 📊 GitHub Stats (Animated)
+## 📊 Animated GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HossainShahRahat&show_icons=true&theme=radical" />
@@ -71,10 +69,10 @@ Some highlights from my GitHub repositories:
 
 ---
 
-## 🐍 Contribution Animation
+## 🐍 Contribution Snake (Animated)
 
 <p align="center">
-  <img src="https://github.com/HossainShahRahat/HossainShahRahat/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/HossainShahRahat/HossainShahRahat/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -83,7 +81,7 @@ Some highlights from my GitHub repositories:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shah-rahat-hossain-1aa21a256/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.facebook.com/shah.rahat.hossain">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
@@ -96,5 +94,5 @@ Some highlights from my GitHub repositories:
 ---
 
 <p align="center">
-  ⭐ If you find my projects useful, consider starring them — it really helps!
+  ⭐ Star my repositories if you like my work!
 </p>
